@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPAmOeG5NvIc5XzcbEK7mSkBxL/TbbxayxAQlP8DgDvpCkgwB8eepPWkj3QQ5rXaW3oX98qAaMDHyfLKyFSYKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nara\\Downloads\\Promotion-Engine-Console-application-master\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Nara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
